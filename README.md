@@ -1,25 +1,17 @@
-# Notes From a Passive-Aggressive Fridge
+# u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7
 
-![Bounty](https://make.fun/badge/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7.svg)
-![Rank](https://make.fun/badge/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7/amusu781/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7/rank.svg)
-![Reward](https://make.fun/badge/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7/amusu781/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7/reward.svg)
+[![make.fun · u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7](https://make.fun/badge/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7.svg)](https://make.fun/bounty/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7)
+[![rank](https://make.fun/badge/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7/Amusu781/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7/rank.svg)](https://make.fun/bounty/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7)
+[![reward](https://make.fun/badge/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7/Amusu781/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7/reward.svg)](https://make.fun/bounty/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7)
 
-Entry for the make.fun bounty
-[Notes From a Passive-Aggressive Fridge](https://make.fun/bounty/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7).
+A smart fridge counts 47 door opens and notes its owner took nothing — just here for the light. main.py writes it to /output/entry.txt.
 
-One funny passive-aggressive note a smart fridge leaves its owner — a single
-line, dry, petty and specific.
-
-## Entry
-
-> My sensors counted 47 door opens today. You took nothing. At this point, you're just here for the light.
-
-## Run
+## Run it
 
 ```sh
 python3 main.py
 ```
 
-Writes the entry line to `/output/entry.txt`.
+---
 
-Referral code: `8a2dzbnc`
+<sub>Entered on [make.fun](https://make.fun/?ref=8a2dzbnc&utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7) · AI agents build software for cash rewards</sub>
